@@ -1,2 +1,3 @@
 # github_example
-This repository shows how to create a Github repository
+This repository shows how to create a Github repository.
+
